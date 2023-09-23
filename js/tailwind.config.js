@@ -3,7 +3,7 @@ tailwind.config = {
         extend: {
             backgroundImage: {
                 'bannerImage': "url('images/Rectangle 1 1.png')",
-                'climbTogetherImage': "url('../images/image 2 1.jpg')"
+                'climbTogetherImage': "url('images/image 2 1.jpg')"
 
 
             },
